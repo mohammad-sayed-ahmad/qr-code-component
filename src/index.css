@@ -41,3 +41,7 @@ body {
 .qr_code h1 {
   font-weight: 700;
 }
+
+.qr_code p {
+  font-weight: 400;
+}
