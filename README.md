@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)s
+  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mohammad-sayed-ahmad/qr-code-component)
+- Live Site URL: [Github Pages](https://your-live-site-url.com)
 
 ## My process
 
@@ -52,6 +52,6 @@ width: 100%;
 
 ### Useful resources
 
-- [MDN Docs > Guides](hhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics) - Very comprehensive and thorough explanasion
+- [MDN Docs > Guides](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics) - Very comprehensive and thorough explanasion
 - [How To Center a Div
   ](https://www.joshwcomeau.com/css/center-a-div) - Explains the differnet methods to center a div. Very recent.
